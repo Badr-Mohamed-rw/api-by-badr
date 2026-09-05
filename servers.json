@@ -9,11 +9,11 @@
       "queue": 0,
       "maxplayers": 1000,
       "password": false,
-      "plotPoints": [],        // массив пуст, так как истории нет
+      "plotPoints": [],
       "tg": "",
       "vk": "",
       "inst": "",
-      "icon": "",
+      "icon": "https://reserve-cdn.azresources.cloud/projects/arizona-rp/assets/images/project_icons/1.webp",
       "additionalIps": [],
       "recomend": false
     }
